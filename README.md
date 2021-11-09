@@ -1,4 +1,6 @@
-# recicla.demo
+# RECICLA.IA
+![RECICLA.IA](https://i.imgur.com/5t4zsy0.png)
+
 _Este es el demo de un modelo entrenado para la clasificacion de residuos solidos, La clasificación automática de residuos se ha convertido en una realidad. Puedes crear tu propio clasificador y separador de residuos inteligente. Sigue leyendo y aprende cómo ayudar al planeta a través del reciclaje con robots e inteligencia artificial._ 
 
 ## Proposito 🚀
