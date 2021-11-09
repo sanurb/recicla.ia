@@ -371,6 +371,9 @@ img {
   .section__img {
     width: 470px;
   }
+  .container{
+    display: none;
+  }
 }
 
 @media screen and (min-width: 1200px) {
