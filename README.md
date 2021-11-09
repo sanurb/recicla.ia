@@ -5,7 +5,7 @@ _Este es el demo de un modelo entrenado para la clasificacion de residuos solido
 
 ## Proposito 🚀
 
-_nuestro modelo de detección de basura para detectar plástico, vidrio y metales en tiempo real. una forma fácil de reciclar productos de manera adecuada y tambien podemos ayudar a contribuir a a una tierra mas verde. sin dejar de lado uno de los principales motivos que fue el fomentar y propiciar el el desarrollo de tecnología que aumente la conciencia y capacidad de reciclaje en nuestras regiones. _
+_nuestro modelo de detección de basura para detectar plástico, vidrio y metales en tiempo real. una forma fácil de reciclar productos de manera adecuada y tambien podemos ayudar a contribuir a a una tierra mas verde. sin dejar de lado uno de los principales motivos que fue el fomentar y propiciar el el desarrollo de tecnología que aumente la conciencia y capacidad de reciclaje en nuestras regiones_
 
 Mira **Deployment** para conocer el despliegue del proyecto demo.
 
@@ -15,6 +15,7 @@ _las herramientas que utilizamos para crear el proyecto son:_
 * [P5js](https://p5js.org/es/) - Libreria de JavaScript utilizado para la intereaccion usuario - servidor web
 * [ml5js](https://ml5js.github.io/ml5-examples/public/) - Librerida de JavaScript usada para conexion del modelo de Machine Learning creado anteriormente con Teachable Machine
 
+si queres ver la guia paso a paso sobre el entranimiento del modelo aqui esta el [link](https://bloom-aardwolf-b07.notion.site/Clasificador-de-imagenes-con-IA-64e659c3e5724443a61008825f607d5e)
 ## Autores ✒️
 
 _todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
