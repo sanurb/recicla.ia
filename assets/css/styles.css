@@ -371,6 +371,9 @@ img {
   .section__img {
     width: 470px;
   }
+}
+
+@media screen and (max-width: 760px) {
   .container{
     display: none;
   }
