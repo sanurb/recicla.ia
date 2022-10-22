@@ -3,8 +3,7 @@ let video;
 // For displaying the label
 let label = "esperando...";
 // The classifier
-let classifier;
-let img;
+let classifier, img, input;
 let modelURL = 'https://teachablemachine.withgoogle.com/models/iCk_dsWKR/';
 
 // STEP 1: Load the model!
